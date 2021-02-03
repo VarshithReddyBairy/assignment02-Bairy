@@ -44,5 +44,5 @@ Here are the list of some of the places which i recommend to visit. Actually it 
 ---
 
 ### Time For Some Good Quotes
-> Strength is Life , Weakness is Death. -*Swami Vivekananda*
+> Strength is Life , Weakness is Death. -*Swami Vivekananda* <br>
 > Your time is limited , so dont waste it living someone else's life. -*Steve Jobs*
