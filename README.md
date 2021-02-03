@@ -40,3 +40,9 @@ Here are the list of some of the places which i recommend to visit. Actually it 
 |Miami     |  5 hours       | $300 |
 |Liberty Statue|  3 hours   | $100 |
 |Las Vegas | 6 hours        | $500 |
+
+---
+
+### Time For Some Good Quotes
+> Strength is Life , Weakness is Death. -*Swami Vivekananda*
+> Your time is limited , so dont waste it living someone else's life. -*Steve Jobs*
