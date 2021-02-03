@@ -27,6 +27,9 @@ Chicken\-Biryani is the famous South Indian Dish. It is served as a main dish in
     * A ball to bowl
     * For a wicket keeper he need a keeping gloves , Keeping pads and a helmet.
 
+
+![Cricket](https://github.com/VarshithReddyBairy/assignment02-Bairy/blob/main/Images/Cricket.jpg)
+
 [About Me](https://github.com/VarshithReddyBairy/assignment02-Bairy/blob/main/AboutMe.md)
 
 ---
