@@ -28,3 +28,15 @@ Chicken\-Biryani is the famous South Indian Dish. It is served as a main dish in
     * For a wicket keeper he need a keeping gloves , Keeping pads and a helmet.
 
 [About Me](https://github.com/VarshithReddyBairy/assignment02-Bairy/blob/main/AboutMe.md)
+
+---
+
+### Places Recommended to visit
+Here are the list of some of the places which i recommend to visit. Actually it is very difficult for us to manage all the stuff like work , study , recreation... But , a trip once in a while gives us relaxation. Here are some of the places.
+
+| Location | Hours Required | Cost |
+| ---      | ---            | ---  |
+|Disney Land| 5 hours       | $200 |
+|Miami     |  5 hours       | $300 |
+|Liberty Statue|  3 hours   | $100 |
+|Las Vegas | 6 hours        | $500 |
