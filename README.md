@@ -44,5 +44,41 @@ Here are the list of some of the places which i recommend to visit. Actually it 
 ---
 
 ### Time For Some Good Quotes
-> Strength is Life , Weakness is Death. -*Swami Vivekananda* <br>
-> Your time is limited , so dont waste it living someone else's life. -*Steve Jobs*
+> "Strength is Life , Weakness is Death."  -*Swami Vivekananda* <br>
+> "Your time is limited , so dont waste it living someone else's life."  -*Steve Jobs*
+
+---
+
+### Java Script
+> Java Script often referred as JS is a scripting language. JS is a high level language, often just in time complied and multi-paradigm . It has curly - bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions . Alongside HTML and CSS, JavaScript is one of the core technologies of the World Wide Web. JavaScript enables interactive web pages and is an essential part of web applications. The vast majority of websites use it for client-side page behavior, and all major web browsers have a dedicated JavaScript engine to execute it.
+
+[Click Here to Know more](https://en.wikipedia.org/wiki/JavaScript)
+
+### Sample code 
+```
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Statements</h2>
+
+<p>A <b>JavaScript program</b> is a list of <b>statements</b> to be executed by a computer.</p>
+
+<p id="demo"></p>
+
+<script>
+var x, y, z;  // Declare 3 variables
+x = 5;    // Assign the value 5 to x
+y = 6;    // Assign the value 6 to y
+z = x + y;  // Assign the sum of x and y to z
+
+document.getElementById("demo").innerHTML =
+"The value of z is " + z + ".";
+</script>
+
+</body>
+</html>
+
+```
+[link for source code](https://www.w3schools.com/js/tryit.asp?filename=tryjs_syntax_statements)
