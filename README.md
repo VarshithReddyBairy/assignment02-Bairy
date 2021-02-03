@@ -46,16 +46,32 @@ Here are the list of some of the places which i recommend to visit. Actually it 
 Disneyland Park, originally Disneyland, is the first of two theme parks built at the Disneyland Resort in Anaheim, California, opened on July 17, 1955. It is the only theme park designed and built to completion under the direct supervision of Walt Disney. It was originally the only attraction on the property; its official name was changed to Disneyland Park to distinguish it from the expanding complex in the 1990s. It was the first Disney theme park.
 
 
+![Disney Land](https://github.com/VarshithReddyBairy/assignment02-Bairy/blob/main/Images/DisneyLand.jpg)
+
+
 ### Miami
 Miami (/maɪˈæmi/), officially the City of Miami, is a metropolis located in southeastern Florida in the United States. It is the third most populous metropolis on the East coast of the United States, and it is the seventh largest in the country.The city has the third tallest skyline in the U.S. with over 300 high-rises, 55 of which exceed 491 ft (150 m).
 
 Miami is a major center and leader in finance, commerce, culture, arts, and international trade. The metro area is by far the largest urban economy in Florida and the 12th largest in the United States, with a GDP of $344.9 billion as of 2017. In 2020, Miami was classified as a Beta + level global city by the GaWC. In 2019, Miami ranked seventh in the United States and 31st among global cities in business activity, human capital, information exchange, cultural experience, and political engagement.
 
+
+![Miami](https://github.com/VarshithReddyBairy/assignment02-Bairy/blob/main/Images/miami.jpg)
+
+
+
 ### Liberty Statue
 The Statue of Liberty (Liberty Enlightening the World; French: La Liberté éclairant le monde) is a colossal neoclassical sculpture on Liberty Island in New York Harbor within New York City, in the United States. The copper statue, a gift from the people of France to the people of the United States, was designed by French sculptor Frédéric Auguste Bartholdi and its metal framework was built by Gustave Eiffel. The statue was dedicated on October 28, 1886.
 
+
+![Liberty Statue](https://github.com/VarshithReddyBairy/assignment02-Bairy/blob/main/Images/Liberty%20Statue.jpg)
+
+
+
 ### Las Vegas
 Las Vegas (Spanish for "The Meadows"), officially the City of Las Vegas and often known simply as Vegas, is the 28th-most populous city in the United States, the most populous city in the state of Nevada, and the county seat of Clark County. The city anchors the Las Vegas Valley metropolitan area and is the largest city within the greater Mojave Desert. Las Vegas is an internationally renowned major resort city, known primarily for its gambling, shopping, fine dining, entertainment, and nightlife. The Las Vegas Valley as a whole serves as the leading financial, commercial, and cultural center for Nevada.
+
+
+![Las Vegas](https://github.com/VarshithReddyBairy/assignment02-Bairy/blob/main/Images/Las%20Vegas.jpg)
 
 ---
 
